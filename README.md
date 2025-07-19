@@ -4,8 +4,11 @@
 ## Qui suis-je ?
 Je m'appelle Landryb et je suis un passionné de l'informatique avec un intérêt particulier pour :
 
-- **Le développement Python**
+- **Le développement Python, Javascript,...**
 - **L'apprentisage automatique**
+- **Le pentesting**
+- **Et autres**
+- 
 
 
 
